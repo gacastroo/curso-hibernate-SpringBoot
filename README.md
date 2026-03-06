@@ -1,0 +1,1 @@
+Este proyecto es un ejemplo práctico para aprender y trabajar con Hibernate, el framework de mapeo objeto-relacional (ORM) en Java. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos usando entidades Java y anotaciones de Hibernate.
