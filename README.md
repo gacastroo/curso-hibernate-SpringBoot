@@ -1,0 +1,1 @@
+Hoy dejamos de sufrir con EntityManagerFactory, begin(), commit(), close()... Spring Boot se encarga de todo eso. Ustedes solo escriben la lógica de negocio.
